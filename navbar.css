@@ -1,0 +1,116 @@
+.navbar{
+    background-color: rgb(175, 105, 207);
+    height: 100px;
+}
+.navbar-style{
+    display: inline-block;
+    position: relative;
+    left:480px;
+}
+.nav-item{
+    display: inline-block;
+}
+.navbar-brand{
+    text-decoration: none;
+    font-family: Goudy Old Style;
+    font-size: 70px;
+    font-weight: 900;
+    color: rgb(61, 11, 11);
+}
+.nav-link{
+    text-decoration: none;
+    font-family: Goudy Old Style;
+    font-size: 30px;
+    padding-right:10px;
+    color:rgb(61, 11, 11);
+}
+.nav-link:visited {
+    color: rgb(61, 11, 11);
+  }
+  .nav-link:visited {
+    color: rgb(61, 11, 11);
+  }
+  .nav-link:hover{
+    background-color: rgb(194, 150, 85);
+  }
+  .img-style1{
+      width: 1672px;
+      opacity: 0.4;
+      height:700px;
+  }
+  .p-style1{
+      color: rgb(61, 11, 11);
+      font-family: Goudy Old Style;
+      font-size: 70px;
+      display:inline-block;
+      position: relative;
+      left:550px;
+      bottom:700px;
+      font-weight: 900;
+  }
+  .button-1{
+      position: relative;
+      right: 550px;
+      bottom:400px;
+      font-size: 40px;
+      background-color: rgb(175, 105, 207);
+      border:4px solid black;
+      box-shadow: 10px 10px black;
+      
+  }
+  .footer-style{
+      font-size: 25px;
+      font-family: Goudy Old Style;
+      position: relative;
+      bottom:400px;
+  }
+  .text-center{
+      background-color: rgb(175, 105, 207);
+      font-size: 30px;
+      font-family: Goudy Old Style;
+     
+  }
+  .heading{
+      font-size: 50px;
+      font-family: Goudy Old Style;
+      text-align: center;
+  }
+  .td-style{
+    background-color:rgb(194, 150, 85) ;
+    font-size: 30px;
+    font-family: Goudy Old Style;
+    text-align: center;
+    padding-top: 5px;
+    padding-bottom:5px;
+  }
+  .table-style{
+        border: 4px solid black;
+        width:75%;
+        box-shadow:10px 10px black ;
+        margin-left: auto;
+        margin-right: auto;
+  }
+ .container{
+     position: relative;
+     bottom:1000px;
+ }
+ .button-style{
+     background-color: rgb(175, 105, 207);
+     font-family: Goudy Old Style;
+     font-size:25px;
+     border: 4px solid black;
+     box-shadow:10px 10px black ;
+ }
+ .label-style{
+     font-family: Goudy Old Style;
+     font-size:40px;
+ }
+ .form-control{
+     font-family: Goudy Old Style;
+     border: 4px solid black;
+     box-shadow:5px 5px black ;
+     font-size: 35px;
+ }
+ .a-style:visited{
+    color:black;
+ }
